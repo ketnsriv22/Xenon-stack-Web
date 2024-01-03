@@ -18,7 +18,7 @@ body {
     width: 100vw;
     display: block;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('./img/bike.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('https://shorturl.at/tEHN2');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -148,15 +148,15 @@ section:nth-child(odd) {
 }
 
 #parallex-set-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/bike2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://shorturl.at/ipADM');
 }
 
 #parallex-set-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/bike2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://shorturl.at/psEFP');
 }
 
 #parallex-set-3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/bike3.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://shorturl.at/psEFP');
 }
 
 .item-box {
